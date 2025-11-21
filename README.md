@@ -14,7 +14,7 @@
   <br />
 
   <!-- Hire Me Badge -->
-  <a href="mailto:your-email@example.com">
+  <a href="https://linkedin.com/in/byjg">
     <img src="https://img.shields.io/badge/Hire%20Me-I'm%20Available-%2300c851?logo=briefcase&logoColor=white&labelColor=0d1117" />
   </a>
 
