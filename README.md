@@ -123,8 +123,8 @@ Full list: https://opensource.byjg.com
 <td width="33%" valign="top">
 
 ### 🔤 Languages & Data  
-- PHP, Python, Node.js, Bash  
-- Postgres, MySQL/MariaDB  
+- PHP, Python, Node.js, Go, Bash  
+- Postgres, MySQL/MariaDB , Sql Server 
 - MongoDB, Redis  
 
 </td>
@@ -139,7 +139,7 @@ Full list: https://opensource.byjg.com
 <td width="33%" valign="top">
 
 ### 🔧 DevOps & Platform  
-- Terraform, Ansible, shell automation  
+- Terraform, Ansible, Pulumi, shell automation  
 - CI/CD: GitHub Actions, Bitbucket, Jenkins  
 - Observability: New Relic, CloudWatch  
 
