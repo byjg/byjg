@@ -61,7 +61,7 @@ If my libraries or tools save you time or keep your systems stable, consider sup
 
 Framework-free, production-ready PHP libraries for HTTP, REST testing, migrations, queues, feature flags, and more.
 
-- Docs: https://opensource.byjg.com/byjg  
+- Docs: https://opensource.byjg.com/  
 - Examples:
   - `byjg/migration`
   - `byjg/swagger-test`
